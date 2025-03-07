@@ -1,0 +1,7 @@
+pandas
+numpy
+re
+streamlit
+transformers
+torch
+datasets

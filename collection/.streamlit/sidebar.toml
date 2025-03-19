@@ -4,12 +4,12 @@ icon = "🇲🇲"
 is_section = true
 
 [[pages]]
-path = "C:/Users/May/.streamlit/aboutus.toml"
+path = "collection/.streamlit/aboutus.toml"
 name = "About Us!"
 icon = "🫂"
 
 [[pages]]
-path = "C:/Users/May/test2.py"
+path = "collection/test2.py"
 name = "**Intermediate Level Grammar & Spelling Checker**"
 icon = "🔍"
 

@@ -9,7 +9,7 @@ st.set_page_config(layout="wide")
 #sections = st.sidebar.toggle("Sections", value=True,# key="use_sections")
 
 # Choose the TOML file based on the toggle
-nav = get_nav_from_toml(".streamlit/sidebar.toml")
+nav = get_nav_from_toml("https://github.com/tayyMem/ProjectGG/blob/main/collection/.streamlit/sidebar.toml")
 
 # Display your logo (adjust the path if necessary)
 st.logo("naruto.jpg")

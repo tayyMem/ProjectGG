@@ -4,12 +4,12 @@ icon = "🇲🇲"
 is_section = true
 
 [[pages]]
-path = "https://github.com/tayyMem/ProjectGG/blob/main/collection/.streamlit/aboutus.toml"
+path = ".streamlit/aboutus.toml"
 name = "About Us!"
 icon = "🫂"
 
 [[pages]]
-path = "https://github.com/tayyMem/ProjectGG/blob/main/collection/test2.py"
+path = "test2.py"
 name = "**Intermediate Level Grammar & Spelling Checker**"
 icon = "🔍"
 

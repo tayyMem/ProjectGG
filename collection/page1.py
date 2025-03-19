@@ -12,7 +12,7 @@ st.set_page_config(layout="wide")
 nav = get_nav_from_toml("https://github.com/tayyMem/ProjectGG/blob/main/collection/.streamlit/sidebar.toml")
 
 # Display your logo (adjust the path if necessary)
-st.logo("naruto.jpg")
+st.logo("https://github.com/tayyMem/ProjectGG/blob/main/collection/naruto.jpg")
 
 # Initialize navigation using the st_pages library
 pg = st.navigation(nav)

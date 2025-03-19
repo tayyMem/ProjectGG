@@ -1,0 +1,3 @@
+import streamlit as st
+st.divider() 
+st.subheader("We are Group2 from Simbolo AI Batch 20's. Our project is to deliver assistance in B2 level students' grammar and spelling mistakes correction.")

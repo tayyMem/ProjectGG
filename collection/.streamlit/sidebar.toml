@@ -13,3 +13,8 @@ path = "test2.py"
 name = "**Intermediate Level Grammar & Spelling Checker**"
 icon = "🔍"
 
+[[pages]]
+path = ".streamlit/credits.toml"
+name = "Credits"
+icon = "🫂"
+

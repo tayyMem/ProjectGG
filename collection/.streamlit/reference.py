@@ -9,3 +9,10 @@ st.caption("https://docs.streamlit.io/develop/api-reference/text")
 st.subheader(":blue[**For Model:**] ")
 st.caption("https://docs.streamlit.io/develop/api-reference/text")
 st.caption("https://docs.streamlit.io/develop/api-reference/text")
+
+st.subheader(":blue[**Weight Decay:**] ")
+st.caption("https://www.kaggle.com/code/zalcode/fine-tuning-a-llm-for-grammar-correction")
+st.caption("https://paperswithcode.com/method/weight-decay")
+
+st.subheader(":blue[**Num Beam:**] ")
+st.caption("https://huggingface.co/blog/how-to-generate")

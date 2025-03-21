@@ -14,7 +14,6 @@ name = "**Intermediate Level Grammar & Spelling Checker**"
 icon = "🔍"
 
 [[pages]]
-path = ".streamlit/credits.toml"
-name = "Credits"
-icon = "🫂"
-
+path = ".streamlit/reference.py"
+name = "Our Appreciation!"
+icon = "📍"

@@ -4,6 +4,7 @@ install below libraries
 
 pip install streamlit
 pip install transformer torch
+pip install st_pages
 
 there might be some libraries you will have to install based on what you have and do not have.
 

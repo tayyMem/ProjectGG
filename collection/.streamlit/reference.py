@@ -16,3 +16,7 @@ st.caption("https://paperswithcode.com/method/weight-decay")
 
 st.subheader(":blue[**Num Beam:**] ")
 st.caption("https://huggingface.co/blog/how-to-generate")
+
+st.subheader(":yellow[**Bleu Evaluation**] ")
+st.caption("https://www.geeksforgeeks.org/nlp-bleu-score-for-evaluating-neural-machine-translation-python/")
+
